@@ -1,4 +1,4 @@
-<a href="https://github.com/anuraghazra/convoychat" style="margin-right: 20px;">
+<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lzzzs&line_height=271&theme=radical" />
 </a>
 
