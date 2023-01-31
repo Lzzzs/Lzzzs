@@ -3,7 +3,8 @@
     <img alt="lzzzs GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=Lzzzs&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
 </picture>
 
-## 👋🏻Hi there, I'm LiangZhenSheng
+## 👋🏻Hi there
+
 
 
 ## Visitors Count
