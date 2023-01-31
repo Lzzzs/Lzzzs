@@ -1,9 +1,12 @@
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=Lzzzs&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
-    <img alt="lzzzs GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=Lzzzs&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
-</picture>
+<a href="https://github.com/Lzzzs?tab=repositories">
+    <picture>
+      <img alt="lzzzs GitHub Stats." align="right" width="480px"  src="https://github-readme-stats.vercel.app/api?username=Lzzzs&show_icons=true&theme=prussian&include_all_commits=true&hide_title" href="https://github.com/Lzzzs?tab=repositories">
+    </picture>
+<a/>
 
 ## 👋🏻Hi there
+
+
 
 
 
